@@ -1,4 +1,4 @@
-# 🚀 ResumeIQ - AI Resume Analyzer
+# 🚀 ResumeIQ - Resume Analyzer
 
 <div align="center">
 
@@ -7,9 +7,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**An AI-powered web application that analyzes resumes and provides intelligent, actionable feedback to help you land your dream job.**
+**An intelligent resume analyzer that evaluates resumes and provides structured feedback to help you land your dream job.**
 
-[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Tech Stack](#tech-stack)
+[🔗 Live Demo](https://resumeiqforu.netlify.app/) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Tech Stack](#tech-stack)
 
 </div>
 
@@ -24,6 +24,14 @@ Whether you're a recent graduate or an experienced professional, ResumeIQ helps 
 - **Detailed Feedback** - Receive comprehensive analysis and suggestions
 - **Skill Gap Detection** - Identify missing skills and keywords for your target role
 - **Professional Dashboard** - Clean, intuitive UI for easy analysis
+
+---
+
+## 🌐 Live Demo
+
+**Try ResumeIQ now:** [https://resumeiqforu.netlify.app/](https://resumeiqforu.netlify.app/)
+
+Simply upload your resume (PDF or DOCX) and get instant ATS analysis with detailed feedback to improve your job readiness!
 
 ---
 
