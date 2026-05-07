@@ -44,7 +44,8 @@ Simply upload your resume (PDF or DOCX) and get instant ATS analysis with detail
 - **🎨 Clean UI Dashboard** - Modern, user-friendly interface built with React
 - **💾 PDF Download** - Download your improved resume
 - **🔍 Detailed Analytics** - Keywords matched, sections found, action verbs used
-- **🚀 Future Enhancements** - AI-powered resume rewriting, job matching system
+- **💬 AI Chat Interface** - Chat system ready for OpenAI integration (currently in development)
+- **🚀 Future Enhancements** - AI-powered resume chat, job matching system
 
 ---
 
@@ -147,6 +148,9 @@ ResumeIQ evaluates your resume on:
 
 ## 🌟 Features in Detail
 
+### 💬 Chat Interface for Resume Questions
+User-friendly chat interface ready to answer resume-related questions. Currently using mock responses, with OpenAI API integration coming soon for fully personalized AI-powered answers.
+
 ### Real-Time Feedback
 Get instant analysis without waiting. The app processes your resume and delivers feedback in seconds.
 
@@ -190,11 +194,24 @@ ResumeIQ/
 
 ---
 
+## 📸 Screenshots
+
+### Home Page - Resume Upload
+![ResumeIQ Home Page](./assets/ResumeAnalyzer.png)
+Upload your resume and get instant ATS analysis with our clean, intuitive interface.
+
+### Analysis Results - ATS Score & Feedback
+![Resume Analysis](./assets/AIChat.png)
+View your detailed ATS score, identify weak points, and interact with the AI chat system to get improvement suggestions.
+
+---
+
 ## 🔗 Quick Links
 
-- **Home Page** - Main dashboard and upload interface
-- **Analysis Page** - Detailed resume analysis and scoring
-- **Improvement Page** - AI-powered suggestions and enhancements
+- **[Live App](https://resumeiqforu.netlify.app/)** - Try ResumeIQ now!
+- **Home Page** - Main dashboard and resume upload interface
+- **Analysis Page** - Detailed resume analysis, ATS scoring, and AI chat system
+- **Improvement Chat** - AI-powered suggestions for resume enhancement
 
 ---
 
