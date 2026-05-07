@@ -17,12 +17,12 @@
 
 ## 📋 Overview
 
-ResumeIQ is an intelligent resume analyzer that leverages artificial intelligence to evaluate your resume against real-world job standards. It provides structured feedback on skills, formatting, ATS compatibility, and actionable improvement suggestions to boost your job readiness.
+ResumeIQ is an intelligent resume analyzer that evaluates your resume against real-world job standards. It provides structured feedback on skills, formatting, and ATS compatibility to help you optimize your resume for better job prospects.
 
 Whether you're a recent graduate or an experienced professional, ResumeIQ helps you optimize your resume with:
 - **Real ATS Scoring** - Get realistic ATS (Applicant Tracking System) scores
-- **AI-Powered Feedback** - Receive personalized improvement suggestions
-- **Skill Gap Detection** - Identify missing skills for your target role
+- **Detailed Feedback** - Receive comprehensive analysis and suggestions
+- **Skill Gap Detection** - Identify missing skills and keywords for your target role
 - **Professional Dashboard** - Clean, intuitive UI for easy analysis
 
 ---
@@ -31,7 +31,6 @@ Whether you're a recent graduate or an experienced professional, ResumeIQ helps 
 
 - **📤 Resume Upload & Parsing** - Supports PDF and DOCX files with intelligent parsing
 - **🎯 ATS Score Evaluation** - Get a realistic ATS score (0-10) based on resume optimization
-- **🤖 AI-Based Feedback** - Receive detailed, actionable suggestions for improvement
 - **📊 Skill Gap Detection** - Identify missing keywords and technical skills
 - **✏️ Resume Improvement Suggestions** - Get instant recommendations to strengthen your resume
 - **🎨 Clean UI Dashboard** - Modern, user-friendly interface built with React
@@ -45,7 +44,6 @@ Whether you're a recent graduate or an experienced professional, ResumeIQ helps 
 
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **AI Integration:** OpenAI API
 - **Document Processing:** PDF and DOCX parsing
 - **Styling:** Tailwind CSS with custom components
 
@@ -78,10 +76,9 @@ Whether you're a recent graduate or an experienced professional, ResumeIQ helps 
    npm install
    ```
 
-4. **Environment Configuration**
-   Create a `.env` file in the backend directory:
+4. **Environment Configuration** (Optional)
+   Create a `.env` file in the backend directory for any API configurations:
    ```
-   OPENAI_API_KEY=your_api_key_here
    PORT=5000
    ```
 
@@ -141,9 +138,6 @@ ResumeIQ evaluates your resume on:
 ---
 
 ## 🌟 Features in Detail
-
-### AI-Powered Analysis
-Leverages OpenAI's language models to provide intelligent, context-aware feedback tailored to your resume's content.
 
 ### Real-Time Feedback
 Get instant analysis without waiting. The app processes your resume and delivers feedback in seconds.
@@ -227,7 +221,6 @@ CSE Student | Web Developer | AI Enthusiast
 
 ## 🙏 Acknowledgments
 
-- OpenAI for the powerful language models
 - React and Tailwind CSS communities
 - All contributors and users for their support
 
